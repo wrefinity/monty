@@ -1,5 +1,5 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
-## The is about monty language
+## About monty language
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. 
 
 ### Monty byte code files
@@ -13,8 +13,6 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 * To know the most common use cases of stacks and queues
 * To know the proper way to use global variables
 
-### Resource:
-* [Difference between Stack and Queue Data Structures](https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/) || 
 
 ## General Requirements
 * Allowed editors: **vi**, **vim**, **emacs**
@@ -28,4 +26,4 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 * All the header files are include guarded
 
 ## Authors/Collaborators
-[Andrew Ishaku Wreford](https://github.com/wrefinity/monty/) || [Oluwatofunmi Akinola](https://github.com/carvanino/monty/)
+[Andrew Ishaku Wreford](https://github.com/wrefinity/monty/) || [Oluwatofunmi Akinola](https://github.com/wrefinity/monty/)
